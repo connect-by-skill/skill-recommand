@@ -29,7 +29,7 @@ def test():
 def info():
 
     #안드로이드 -> email
-    # 우재가 배포해줌 수정하면 됨.
+    # 우재가 배포해줌 수정하면 됨. 
     import pandas as pd
     reco_db = pymysql.connect(
         user='root',
